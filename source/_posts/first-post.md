@@ -14,7 +14,7 @@ of research and being an academic peer that professors will listen to. Don't let
 hamper your curiosity.
 2. Find an advisor that you can be friends with. Some people prefer
 "professional relationships with their advisor"---but I can't imagine what my first
-year would be like if my advisor wasn't the weirdest, cookiest friend I've ever met.
+year would be like if my advisor didn't act like a friend to me from day 1.
 3. Make friends with your labmates. If they are shy, force them to be your friend.
 A good group culture leads to better discussions which leads to better ideas and 
 as a result, better research. It's only been one year, but I'm happy to call my lab
