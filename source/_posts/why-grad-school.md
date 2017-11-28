@@ -2,7 +2,7 @@
 title: Writing a graduate school application
 date: 2017-11-23 13:40:20
 tags: grad school, phd, masters, professors, academia
---
+---
 
 It's almost December, so it's about that time that people kick
 it into high gear to apply to graduate school. I've had a few of my 
