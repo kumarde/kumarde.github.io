@@ -4,7 +4,7 @@ date: 2018-04-01 21:33:43
 tags: Existentialism
 ---
 
-I recently had a great conversation with a friend, [Jordan Liu](jminjie.com)
+I recently had a great conversation with a friend, [Jordan Liu](http://jminjie.com)
 about art and why we choose to make it.  
 
 Context: For the last year or so, Jordan and I have been working on a musical.
