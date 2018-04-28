@@ -22,8 +22,8 @@ the screenwriters, Stephen McFeely and Christopher Markus, walk us through the
 narrative from _Thanos'_ perspective, giving us emotional insight that has
 previously only been ascribed to the heroes in this universe. Reminding us what
 Thanos has had to lose in order to achieve his goal of eliminating half the
-universe to end suffering makes his plight all that more relatable. In fact,
-in my opinion, it makes him the protagonist. 
+universe to end suffering makes his plight all that more relatable. 
+In my opinion, it makes him the protagonist. 
 
 In most conventional stories on screen, you can follow the main character
 through something called the "Hero's Journey": this is the cycle of events that
