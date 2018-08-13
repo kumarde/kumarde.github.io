@@ -28,11 +28,11 @@ eternity basking in the indecision.
 But you know what? I could use a little spontenaiety. Fuck it. We eatin'
 tonight.
 
-So I put on some pants and a t-shirt (from which there is no turnign back) and
+So I put on some pants and a t-shirt (after which there is no turning back) and
 embark on my quest. The first thing I notice? It's quiet outside. Reaaaal
 quiet. Almost too quiet. A night-creature (squirrel? opossum?) rustles a bush
-right outside my apartment building, reminding me that I'm not the only living
-being in South Bay.
+right outside my apartment building. That rustle serves as a reminder that I 
+am not the only living being in South Bay.
 
 Google Maps tells me it'll take me seven minutes to walk there. I begin the
 trek. It's not a terribly exciting trip, but there's something about being
