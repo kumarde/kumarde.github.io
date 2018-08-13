@@ -69,6 +69,12 @@ Oh god. Decisions. Nooooooooo! I shake it off again.
 
 "50% please".
 
+The exchange is done in about 32 seconds. But unbeknownst to the clerk, I have
+just performed a herculean task, for great reward. And for it, I must pay a
+heavy price. 
+
+The price is... four dollars. Why does milk tea cost four dollars?
+
 I collect the sweet sweet tea (okay, it was half sweet), then return home.
 I can't help but smile. It's a beautiful night. I have bubble tea. And
 the best part? I tried something new.
