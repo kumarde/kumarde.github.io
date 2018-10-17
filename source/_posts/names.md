@@ -50,4 +50,4 @@ Now, when I meet new people, I choose “Dhee puck” instead of “Dee pahk”.
 Honestly? Most people still don’t get it. That’s okay - a rose by another name
 is just as sweet.
 
-Fitting in is overrated anyway.
+Besides, fitting in is overrated anyway.
