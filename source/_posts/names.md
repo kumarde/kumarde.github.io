@@ -6,8 +6,7 @@ tags: names; culture; identity
 
 I.
 
-In my third week as a graduate student, my advisor walked into the office
-angry. He pointed at me and proclaimed: “You!”
+In my third week as a graduate student, my advisor walked into the office angry. He pointed at me and proclaimed: “You!”
 
 I thought I was toast. Had I screwed up an experiment? My data was horribly
 wrong? I committed academic malpractice? My imposter syndrome was raging in my
