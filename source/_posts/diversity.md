@@ -43,7 +43,7 @@ The lesson here is crystal clear: films with low diversity scores are the
 secret to massive box office success. To incorporate this insight, all new
 films produced by us will be single-race movies. How are we going to choose the
 race for each movie, you ask? Well, I think we can all agree that
-#RepresentationMatters. And given that we are an American company, I think the
+representation matters. And given that we are an American company, I think the
 best way to choose is to pick a race modeled off of America’s population. So
 that’s 72.4% White, 12.6% Black and 4.8% Asian. If 2018 is any indication,
 nobody really cares about the other 10.1%.
@@ -51,19 +51,19 @@ nobody really cares about the other 10.1%.
 In addition, we’ll be remaking some of the most popular movies in the last few
 years to capitalize on this opportunity. Our shortlist includes:
 
-An all-Asian version of “Black Panther” called “Yellow Panther”. Jackie Chan
+- An all-Asian version of “Black Panther” called “Yellow Panther”. Jackie Chan
 will play the lead – a half human, half transformer – so you know we’ll capture
 the entirety of the Chinese market.
 
-An all-Black version of “Crazy Rich Asians” called “Crazy and Rich Blacks”,
+- An all-Black version of “Crazy Rich Asians” called “Crazy and Rich Blacks”,
 because if Kanye West taught us anything, it’s that audiences love to see rich
 black men do and say ridiculous things.
 
-An all-White version of “12 Years a Slave” called “12 Years a Slave Owner”, to
+- An all-White version of “12 Years a Slave” called “12 Years a Slave Owner”, to
 capture the Neo-Nazi Confederate audience that’s been growing strong right here
 in America.
 
-Hollywood is changing. We’ve gotta stay with it if we’re going to stay alive in
+- Hollywood is changing. We’ve gotta stay with it if we’re going to stay alive in
 this dog eat dog world. Let’s make sure that 2019 is the least diverse year
 Hollywood has ever seen.
 
