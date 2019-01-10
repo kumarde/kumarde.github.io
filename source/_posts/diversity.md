@@ -1,5 +1,5 @@
 ---
-title: diversity
+title: Diversity No Longer Good For Business 
 date: 2019-01-10 09:35:35
 tags: humor
 ---
