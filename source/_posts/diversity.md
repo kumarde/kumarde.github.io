@@ -63,7 +63,7 @@ black men do and say ridiculous things.
 capture the Neo-Nazi Confederate audience that’s been growing strong right here
 in America.
 
-- Hollywood is changing. We’ve gotta stay with it if we’re going to stay alive in
+Hollywood is changing. We’ve gotta stay with it if we’re going to stay alive in
 this dog eat dog world. Let’s make sure that 2019 is the least diverse year
 Hollywood has ever seen.
 
