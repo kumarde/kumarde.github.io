@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/kumarde
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kumarde.com
+  * I am kumarde (https://keybase.io/kumarde) on keybase.
+  * I have a public key with fingerprint 2543 7105 AE7A BF45 512D  983F 22C1 1A0C 119E 6FD7
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012056c773fbf2a6932bc6cd85a8e0fb3cf5aaa133e892ec3ad60ca90d62c24135820a",
+            "fingerprint": "25437105ae7abf45512d983f22c11a0c119e6fd7",
+            "host": "keybase.io",
+            "key_id": "22c11a0c119e6fd7",
+            "kid": "0101ce77d25e234eebb938f68f40abb6596bd50da2a16b223ad27940584ec7778aff0a",
+            "uid": "b9175ff99de54217f85b12beab5e0919",
+            "username": "kumarde"
+        },
+        "service": {
+            "hostname": "kumarde.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1471297147,
+    "expire_in": 157680000,
+    "prev": "3ecca8434121c92a27f60a5c47d25c63c862aa3d4cae1503d9f88304aba471a0",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.55
+Comment: https://keybase.io/crypto
+
+yMNtAnicbVJrUFVVFOahl/EmAZkWVAwdiwgZOGef903xojQFlkLDhChy2eecvS+H
+x72X+wCNQcgYgcFHWoggA4iUCRFiOmXjNBJKKQ1aiJCD8tBxYLgZWD96aHQOkz+a
+af/Ya/ba3/etb61ZFwL9fYy+RE/Y0pAm+7Bvf0+txyf9FFdSQkh2ZQdhKiHy0EJA
++QpyuS15qkKYCJICJMvJPE9jCQPIiTSQZE5WBBYKiMQSLWMWQkjRNBJEgGQaKhwp
+Q5FUOCADhqJZAZCQiCGwarMip8Op2tyaLGAZmqdIFiIeSphhWQoookBjAGSKgqR2
+iYjDCq8Rc+wunaGZk6ALxap2Lac9LAv2/gf/yDdJyYjnFcAiQDMISZJIC5gTMENC
+SeJYkZMUllQggBQnAaD5BrzIkKzAIK1bXoAYL/j2LMhJIsWzGIuiglgGUDwWWIkC
+EoISi0iREnWgCzltsADpXj0F0KkgojSG0JJFqoz0ueqN/BcQK9sLNKbDaXfbZXu+
+9pHjdjtcJp3o3uHQkcVIsvyrYZFUm6JNUWMUIadLtdsIE6UhZbeqi1IMTwGR10IM
+gbY7VCeyqDqC5TmB1I5eBxVpkjSSZSgwNEMBShYBBDzmSMjKjD4smaNlgQMQ0goj
+Q0SxJK2IWBBokoES1EpAktC7KrTZCZOg2YRWTdKlWm3Q7XFqLX/Tk7nIx9foY1js
+p2+Xj3FJ8KOde6sqaD49cFXPzczU9daogpm/EmYGlQlv1ta2q7txxWTicmpzl/eT
+yQHH4gM/I//T/KUUQ9Yu3CP89kqaZfaxGkntnFz1qungrxE5qYc/nnv74mjzD0Gs
+cyxePhta09r4zDHC/AYWct0rT8Rtm/eMbP0++Xpuw8i1ij23OtJLLsStX+Rb/u3a
+6aSNUXE7Q18bZc88jOrGpd6ALWkHQ7bfWlfeOdD/9O3A3Zu6p2qC+xrGVt7dduni
+2v6R4feX5AcN1fYlfNb4dXRSOvXu0g11Jw59ntpddvbJc+enHphbm74rs7LYsCLj
+eJ/fcNk01VnfvWm8Nzh+y/T9lx7P2X8u/Llldhbvq3pWvdke4I2wuCITywbLv5q4
+88Speze67rX80lZYnZzQfr6rubHH//mH8QkrmsXhyjUZwx1Hr9YbUXVFXebOPS3v
+bRvf2zB0aP6FpwbJkzc2F79Yl+SKWD175wO/+dBsptgUHT1m/vKLiTMHrqyBcynL
+sgamlZODc6l1++rDxssaI18WI3s75rOzoo3tf/Z6R80iF2D4yeIZve4KyfxxeiZu
+121jxkxl3+8Ppj5FlU3ptbmp3rQ3O/xbkiPDjuyt8I7tZze+Y+jcYE4MNJUOncah
+rnUjIW1qSlhMlaG+JDY8yLr876LXZ31bjx3JK7yvxF3JaJm6/MfddmNb+OXD2dXX
+PjoakLD6uPnDmX8AUge/Cg==
+=0IWe
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kumarde
+
+==================================================================
+
