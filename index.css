@@ -11,6 +11,12 @@ body{
     font-size: 1.8em;
 }
 
+.subheading{
+    font-family: 'Fira Sans', serif;
+    font-weight: bold;
+    font-size: 1.4em;
+}
+
 #myname{
     font-family: 'Fira Sans', serif;
     font-weight: bold;
