@@ -72,6 +72,11 @@ body{
     color:blue;
 }
 
+.award{
+    font-weight: 700;
+    color:#DAA520;
+}
+
 .bold{
     font-weight: 700;
 }
